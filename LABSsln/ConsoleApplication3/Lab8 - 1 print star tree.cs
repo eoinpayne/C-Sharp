@@ -16,6 +16,7 @@ namespace ConsoleApplication6
                 string star = new String('*', i);
 
                 Console.WriteLine(star);
+
             }
         }
     }
