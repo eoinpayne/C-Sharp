@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8 - 2 - raise nth power"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8 - 1 print star tree", "ConsoleApplication3\Lab8 - 1 print star tree.csproj", "{A52D6DE4-669A-4C07-BE8B-3E3B75A3CE85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab10 - ReverseMumbers", "lab10 - ReverseMumbers\lab10 - ReverseMumbers.csproj", "{30C4263D-9B3E-4CB1-8994-C0660FB16796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A52D6DE4-669A-4C07-BE8B-3E3B75A3CE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A52D6DE4-669A-4C07-BE8B-3E3B75A3CE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A52D6DE4-669A-4C07-BE8B-3E3B75A3CE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C4263D-9B3E-4CB1-8994-C0660FB16796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C4263D-9B3E-4CB1-8994-C0660FB16796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C4263D-9B3E-4CB1-8994-C0660FB16796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C4263D-9B3E-4CB1-8994-C0660FB16796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
