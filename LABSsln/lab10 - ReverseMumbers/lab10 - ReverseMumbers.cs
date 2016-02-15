@@ -10,7 +10,7 @@ namespace lab10___ReverseMumbers
     {
         static void Main(string[] args)
         {
-            Array listOf5 = new Array[4];
+            //Array listOf5 = new Array[4];
             int[] numbers = new int[5] { 1, 2, 3, 4, 5 };
 
             //sum all items in list
