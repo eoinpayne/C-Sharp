@@ -18,6 +18,15 @@ namespace Classex
             e3.Name = "John"; //calling , setting the name.
             string s = e3.Name;
 
+            Manager m = new Manager();
+            m.Surname = "walsh";
+            m.Name = "john";
+
+            // faster way to initialise that above.
+            //open { enter property (or just hit "space") the(,space) will show unused properties
+            Manager m2 = new Manager()
+            {   Name = "john",
+                Surname = "walsh"   };
 
         }
     }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Classex", "Classex\01-Classex.csproj", "{988D1028-71C2-44B5-BD84-46CAF5C1751E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-getSetInit", "Classex\01-getSetInit.csproj", "{988D1028-71C2-44B5-BD84-46CAF5C1751E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{0196ED92-C32B-481B-A266-1DC29F452C94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{988D1028-71C2-44B5-BD84-46CAF5C1751E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{988D1028-71C2-44B5-BD84-46CAF5C1751E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{988D1028-71C2-44B5-BD84-46CAF5C1751E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0196ED92-C32B-481B-A266-1DC29F452C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0196ED92-C32B-481B-A266-1DC29F452C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0196ED92-C32B-481B-A266-1DC29F452C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0196ED92-C32B-481B-A266-1DC29F452C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
